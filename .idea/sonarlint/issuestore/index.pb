@@ -10,7 +10,5 @@ P
  src/components/EmployeeDetail.js,1\9\19e66e4db8129373e07093a9512057d79eaadc5e
 C
 src/css/Sidebar.css,a\f\af72d8130571c5b030ee63bf556eb81e56438a4e
-J
-src/components1/Sidebar.js,9\8\98fe7f8cb02a707d6ac1852cc4a1e19a8119fb07
 I
 src/components/Sidebar.js,c\b\cb3b0578344e2e841c2d61813dd0515ed723e2b5
